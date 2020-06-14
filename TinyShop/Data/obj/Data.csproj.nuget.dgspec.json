@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/k/Documents/ASP.NET_CORE/TinyShop/Data/Data.csproj": {}
+  },
+  "projects": {
+    "/Users/k/Documents/ASP.NET_CORE/TinyShop/Data/Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/k/Documents/ASP.NET_CORE/TinyShop/Data/Data.csproj",
+        "projectName": "Data",
+        "projectPath": "/Users/k/Documents/ASP.NET_CORE/TinyShop/Data/Data.csproj",
+        "packagesPath": "/Users/k/.nuget/packages/",
+        "outputPath": "/Users/k/Documents/ASP.NET_CORE/TinyShop/Data/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/k/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

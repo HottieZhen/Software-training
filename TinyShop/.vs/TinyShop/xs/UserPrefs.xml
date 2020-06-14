@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{E53D012E-5A3C-406F-8885-B727F3EAD8EC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TinyShop/Program.cs">
+    <Files>
+      <File FileName="TinyShop/Views/_ViewStart.cshtml" Line="2" Column="8" />
+      <File FileName="TinyShop/Controllers/HomeController.cs" />
+      <File FileName="TinyShop/appsettings.json" />
+      <File FileName="Data/DataContext.cs" />
+      <File FileName="Data/ProductDO.cs" />
+      <File FileName="TinyShop/Startup.cs" Line="27" Column="10" />
+      <File FileName="TinyShop/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TinyShop" expanded="True">
+            <Node name="Data" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True">
+                  <Node name="Pomelo.EntityFrameworkCore.MySql" expanded="True">
+                    <Node name="Microsoft.EntityFrameworkCore.Design" expanded="True">
+                      <Node name="Microsoft.EntityFrameworkCore.Relational" expanded="True">
+                        <Node name="Microsoft.EntityFrameworkCore" expanded="True" />
+                      </Node>
+                    </Node>
+                  </Node>
+                </Node>
+                <Node name="SdkDependencies" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="TinyShop" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TinyShop PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

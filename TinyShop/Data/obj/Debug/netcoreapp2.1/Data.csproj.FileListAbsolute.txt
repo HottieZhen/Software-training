@@ -1,0 +1,9 @@
+/Users/k/Documents/ASP.NET_CORE/TinyShop/Data/bin/Debug/netcoreapp2.1/Data.deps.json
+/Users/k/Documents/ASP.NET_CORE/TinyShop/Data/bin/Debug/netcoreapp2.1/Data.dll
+/Users/k/Documents/ASP.NET_CORE/TinyShop/Data/bin/Debug/netcoreapp2.1/Data.pdb
+/Users/k/Documents/ASP.NET_CORE/TinyShop/Data/obj/Debug/netcoreapp2.1/Data.csprojAssemblyReference.cache
+/Users/k/Documents/ASP.NET_CORE/TinyShop/Data/obj/Debug/netcoreapp2.1/Data.csproj.CoreCompileInputs.cache
+/Users/k/Documents/ASP.NET_CORE/TinyShop/Data/obj/Debug/netcoreapp2.1/Data.AssemblyInfoInputs.cache
+/Users/k/Documents/ASP.NET_CORE/TinyShop/Data/obj/Debug/netcoreapp2.1/Data.AssemblyInfo.cs
+/Users/k/Documents/ASP.NET_CORE/TinyShop/Data/obj/Debug/netcoreapp2.1/Data.dll
+/Users/k/Documents/ASP.NET_CORE/TinyShop/Data/obj/Debug/netcoreapp2.1/Data.pdb
